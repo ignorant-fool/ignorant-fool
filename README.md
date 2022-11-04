@@ -12,6 +12,6 @@ I've also worked a little with C and SQL, however definitely not an expert in ei
 I am comfortable with using Windows, MacOS, and Linux (I use Arch and Asahi btw). 
 My editor of choice is _VS Code_, my terminal of choice is _Alacritty_, and my shell of choice is _fish_. 
 
-Outside of work and study, you can find me climbing (and falling) the ranked ladder in TeamFight Tactics, drinking an unhealthy amount of coffee and tea, and reading way too much manga.
+Outside of work and study, you can find me play and listening to terrible music, drinking an unhealthy amount of coffee and tea, and reading way too much manga.
 
 You can reach me here on [GitHub](https://github.com/ignorant-fool), or on [LinkedIn](https://www.linkedin.com/in/harrisonsbutton/).
