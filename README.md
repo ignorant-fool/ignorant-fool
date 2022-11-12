@@ -14,4 +14,4 @@ My editor of choice is _VS Code_, my terminal of choice is _Alacritty_, and my s
 
 Outside of work and study, you can find me play and listening to terrible music, drinking an unhealthy amount of coffee and tea, and reading way too much manga.
 
-You can reach me here on [GitHub](https://github.com/ignorant-fool), or on [LinkedIn](https://www.linkedin.com/in/harrisonsbutton/).
+You can reach me here on [GitHub](https://github.com/ignorant-fool), or on [LinkedIn](https://www.linkedin.com/in/harrisonsbutton/), and now [Mastodon](@ignorantfool@fosstodon.org) too!
